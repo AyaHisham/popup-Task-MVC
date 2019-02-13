@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="testjModelStoreContainer" CdmEntityContainer="testjEntities3">
+    <EntitySetMapping Name="HomeViewModels">
+      <EntityTypeMapping TypeName="testjModel.HomeViewModel">
+        <MappingFragment StoreEntitySet="HomeViewModel">
+          <ScalarProperty Name="n" ColumnName="n" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

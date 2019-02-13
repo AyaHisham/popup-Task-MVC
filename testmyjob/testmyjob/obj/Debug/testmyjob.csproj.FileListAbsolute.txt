@@ -1,0 +1,171 @@
+D:\upwork\testmyjob\testmyjob\bin\ApplicationInsights.config
+D:\upwork\testmyjob\testmyjob\bin\roslyn\csc.exe
+D:\upwork\testmyjob\testmyjob\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\upwork\testmyjob\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\upwork\testmyjob\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\upwork\testmyjob\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\upwork\testmyjob\testmyjob\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\upwork\testmyjob\testmyjob\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\upwork\testmyjob\testmyjob\bin\roslyn\System.Collections.Immutable.dll
+D:\upwork\testmyjob\testmyjob\bin\roslyn\System.Reflection.Metadata.dll
+D:\upwork\testmyjob\testmyjob\bin\roslyn\vbc.exe
+D:\upwork\testmyjob\testmyjob\bin\roslyn\VBCSCompiler.exe
+D:\upwork\testmyjob\testmyjob\bin\roslyn\VBCSCompiler.exe.config
+D:\upwork\testmyjob\testmyjob\bin\testmyjob.dll.config
+D:\upwork\testmyjob\testmyjob\bin\testmyjob.dll
+D:\upwork\testmyjob\testmyjob\bin\testmyjob.pdb
+D:\upwork\testmyjob\testmyjob\bin\Antlr3.Runtime.dll
+D:\upwork\testmyjob\testmyjob\bin\EntityFramework.dll
+D:\upwork\testmyjob\testmyjob\bin\EntityFramework.SqlServer.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.Agent.Intercept.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.DependencyCollector.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.Web.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.WindowsServer.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.ApplicationInsights.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.Web.Infrastructure.dll
+D:\upwork\testmyjob\testmyjob\bin\Newtonsoft.Json.dll
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Helpers.dll
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Mvc.dll
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Optimization.dll
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Razor.dll
+D:\upwork\testmyjob\testmyjob\bin\System.Web.WebPages.Deployment.dll
+D:\upwork\testmyjob\testmyjob\bin\System.Web.WebPages.dll
+D:\upwork\testmyjob\testmyjob\bin\System.Web.WebPages.Razor.dll
+D:\upwork\testmyjob\testmyjob\bin\WebGrease.dll
+D:\upwork\testmyjob\testmyjob\bin\EntityFramework.xml
+D:\upwork\testmyjob\testmyjob\bin\EntityFramework.SqlServer.xml
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.DependencyCollector.xml
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.Web.xml
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.AI.WindowsServer.xml
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.ApplicationInsights.xml
+D:\upwork\testmyjob\testmyjob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Helpers.xml
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Mvc.xml
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Optimization.xml
+D:\upwork\testmyjob\testmyjob\bin\System.Web.Razor.xml
+D:\upwork\testmyjob\testmyjob\bin\System.Web.WebPages.xml
+D:\upwork\testmyjob\testmyjob\bin\System.Web.WebPages.Deployment.xml
+D:\upwork\testmyjob\testmyjob\bin\System.Web.WebPages.Razor.xml
+D:\upwork\testmyjob\testmyjob\bin\Antlr3.Runtime.pdb
+D:\upwork\testmyjob\testmyjob\bin\Newtonsoft.Json.xml
+D:\upwork\testmyjob\testmyjob\obj\Debug\testmyjob.csprojResolveAssemblyReference.cache
+D:\upwork\testmyjob\testmyjob\obj\Debug\testmyjob.dll
+D:\upwork\testmyjob\testmyjob\obj\Debug\testmyjob.pdb
+D:\upwork\testmyjob - Copy\testmyjob\bin\ApplicationInsights.config
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\csc.exe
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\System.Collections.Immutable.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\System.Reflection.Metadata.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\vbc.exe
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\VBCSCompiler.exe
+D:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\VBCSCompiler.exe.config
+D:\upwork\testmyjob - Copy\testmyjob\bin\testmyjob.dll.config
+D:\upwork\testmyjob - Copy\testmyjob\bin\testmyjob.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\testmyjob.pdb
+D:\upwork\testmyjob - Copy\testmyjob\bin\Antlr3.Runtime.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.SqlServer.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.Agent.Intercept.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.DependencyCollector.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.Web.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.WindowsServer.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.ApplicationInsights.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.Web.Infrastructure.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\Newtonsoft.Json.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Helpers.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Mvc.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Optimization.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Razor.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Deployment.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Razor.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\WebGrease.dll
+D:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.SqlServer.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.DependencyCollector.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.Web.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.WindowsServer.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.ApplicationInsights.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Helpers.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Mvc.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Optimization.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Razor.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Deployment.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Razor.xml
+D:\upwork\testmyjob - Copy\testmyjob\bin\Antlr3.Runtime.pdb
+D:\upwork\testmyjob - Copy\testmyjob\bin\Newtonsoft.Json.xml
+D:\upwork\testmyjob - Copy\testmyjob\obj\Debug\testmyjob.csprojResolveAssemblyReference.cache
+D:\upwork\testmyjob - Copy\testmyjob\obj\Debug\testmyjob.dll
+D:\upwork\testmyjob - Copy\testmyjob\obj\Debug\testmyjob.pdb
+H:\upwork\testmyjob - Copy\testmyjob\bin\ApplicationInsights.config
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\csc.exe
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\System.Collections.Immutable.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\System.Reflection.Metadata.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\vbc.exe
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\VBCSCompiler.exe
+H:\upwork\testmyjob - Copy\testmyjob\bin\roslyn\VBCSCompiler.exe.config
+H:\upwork\testmyjob - Copy\testmyjob\bin\testmyjob.dll.config
+H:\upwork\testmyjob - Copy\testmyjob\bin\testmyjob.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\testmyjob.pdb
+H:\upwork\testmyjob - Copy\testmyjob\bin\Antlr3.Runtime.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.SqlServer.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.Agent.Intercept.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.DependencyCollector.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.Web.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.WindowsServer.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.ApplicationInsights.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.Web.Infrastructure.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\Newtonsoft.Json.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Helpers.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Mvc.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Optimization.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Razor.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Deployment.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Razor.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\WebGrease.dll
+H:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\EntityFramework.SqlServer.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.DependencyCollector.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.Web.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.AI.WindowsServer.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.ApplicationInsights.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Helpers.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Mvc.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Optimization.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.Razor.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Deployment.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\System.Web.WebPages.Razor.xml
+H:\upwork\testmyjob - Copy\testmyjob\bin\Antlr3.Runtime.pdb
+H:\upwork\testmyjob - Copy\testmyjob\bin\Newtonsoft.Json.xml
+H:\upwork\testmyjob - Copy\testmyjob\obj\Debug\testmyjob.csprojResolveAssemblyReference.cache
+H:\upwork\testmyjob - Copy\testmyjob\obj\Debug\testmyjob.dll
+H:\upwork\testmyjob - Copy\testmyjob\obj\Debug\testmyjob.pdb

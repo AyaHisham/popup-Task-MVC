@@ -1,0 +1,75 @@
+﻿@model testmyjob.HomeViewModel
+
+
+@{
+    ViewBag.Title = "Sign In";
+}
+<div class="logoBG text-center">
+    <h1>Welcome!</h1>
+    <h3>Swipe your card or enter your student ID to sign in.</h3>
+    @using (Html.BeginForm())
+
+    {
+        <div class="form-group">
+            <center>
+                <br />
+                @Html.TextBoxFor(m => m.Id, new { @class = "form-control", autofocus = "" })
+                <br />
+            </center>
+        </div>
+        <center>
+            <button class="anchorAlert btn btn-success btn-lg" type="button">SIGN IN</button>
+        </center>
+    }
+</div>
+
+
+@* popup modal *@
+<div id='myModal' class='modal'>
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id='myModalContent'></div>
+        </div>
+    </div>
+
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script>
+
+
+
+    var TeamEditPostBackURL = '/Home/CreateSession'; //the action url will call in Ajax
+    $(function () {
+        $(".anchorAlert").click(function () {
+           var $buttonClicked = $(this);
+           var id = $('#Id').val(); // the value will pass to the action by Ajax (id attribute of the text box)
+           var options = { "backdrop": "static", keyboard: true };
+            $.ajax({
+                type: "GET",
+                url: TeamEditPostBackURL,
+                contentType: "application/json; charset=utf-8",
+                 data: { "Id": id },
+                datatype: "json",
+                success: function (data) {
+                    $('#myModalContent').html(data);
+                    $('#myModal').modal(options);
+                    $('#myModal').modal('show');
+                },
+                error: function () {
+                    alert("Dynamic content load failed.");
+                }
+            });
+        });
+
+
+        $("#closbtn").click(function () {
+            $('#myModal').modal('hide');
+        });
+    });
+    </script>
+}
